@@ -1,6 +1,7 @@
 # Tabela de classificação
 
-## Descrição esta é uma pequena tabela de classificação e contagem de pontos para qualquer tipo de jogo. Desenvolvido durante a Imersão Dev da Alura.
+## Descrição:
+Esta é uma pequena tabela de classificação e contagem de pontos para qualquer tipo de jogo. Desenvolvido durante a Imersão Dev da Alura.
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/vivianeantonio/full/ExXLpov](https://codepen.io/vivianeantonio/full/ExXLpov).
 
